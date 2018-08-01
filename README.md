@@ -1,6 +1,9 @@
-# MTG Intership Project
+# Percussion patterns synthesizer 
 
-This is the repository of my 4-month work on a music application for educational purposes at the Music Technology Group of UPF Barcelona.
+This is the repository of Baptiste Pugnaire's 4-month work on a music application for educational purposes. It is a web-based drum-machine that presents editable percussion patterns for three music traditions: Carnatic, Hindustani and Turkish music. 
+
+The demo is accessible from:
+https://bpugnaire.github.io/mtg-synth-project/
 
 ## Getting Started
 
@@ -20,7 +23,7 @@ If you want to see the source code or run the project on local.
 You can clone the git repository of the project using the command :
 
 ```
-git clone https://github.com/bpugnaire/mtg-synth-project.git
+git clone https://github.com/MTG/percussion-synth-MusicalBridges.git
 ```
 
 Then, to install all dependencies, run : 
